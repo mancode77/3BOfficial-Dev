@@ -20,10 +20,10 @@ const Portfolio = () => {
             <div className="px-[30px] py-[60px]">
               <div className="flex flex-col md:flex-row p-[20px] md:p-[60px] gap-5 rounded-xl" style={{boxShadow: "0 0 2px 0 rgba(0,0,0,0.75)"}}>
                 <div className="w-full">
-                  <img className="rounded-xl" src="https://ardata.co.id/wp-content/uploads/2021/07/Penilaian2-copy-600x450.jpg" alt="" />
+                  <img className="rounded-xl" src="" alt="Coming soon" />
                 </div>
                 <div className="w-full">
-                  <p className="text-[18px] px-[12px] font-mono font-semibold text-gray-500">Bekerjasama dengan asosiasi kementrian agama</p>
+                <p className="text-[18px] px-[12px] font-mono font-semibold text-gray-500">Coming soon</p>
                   <Accordion />
                 </div>
               </div>
